@@ -18,10 +18,7 @@ Front bulkhead category: 119 mm² / 8509 mm⁴ minimum → design achieves ≈23
 ### Frontal impact
 <img width="935" height="398" alt="image" src="https://github.com/user-attachments/assets/1832ebb4-bf40-4a76-9447-14edd1b1eb14" />
 
-Applied load: 117,720 N (300 kg × 40g × 9.81 m/s²), distributed across the bulkhead face
-Fixed constraint: front hoop end joints
-Representative mid-span Factor of Safety: ≈3 on primary diagonal members
-Lowest observed FOS: ≈1.1
+Applied load: 117,720 N (300 kg × 40g × 9.81 m/s²), distributed across the bulkhead face. The fixed constraint was the front hoop end joints, found a factor of Safety: ≈3 on primary diagonal members. lowest observed FOS: ≈ 0.37 on front loop
 ## Torsional Rigidity
 <img width="892" height="397" alt="image" src="https://github.com/user-attachments/assets/c5cbda56-fd62-4650-b4b9-679f44629585" />
 
