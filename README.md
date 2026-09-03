@@ -21,5 +21,5 @@ Fixed constraint: front hoop end joints
 Representative mid-span Factor of Safety: ≈3 on primary diagonal members
 Lowest observed FOS: ≈1.1
 ## Torsional Rigidity
-Test load: ±500 N force couple applied at front bulkhead top nodes (arbitrary linear-elastic test load)
+Test load: ±500 N force couple applied at front bulkhead top nodes
 Result: ≈145,000 Nm/deg
