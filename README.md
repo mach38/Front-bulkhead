@@ -8,7 +8,7 @@ Material: AISI 1020 Cold rolled steel
 | Bulkhead height | 300 mm |
 | Bulkhead width | 400 mm |
 | Front hoop height | 370 mm |
-| Footbox length | 550 mm |
+| Foot box length | 550 mm |
 | Tube profile | 26.9 mm OD x 3.2 mm wall |
 Front bulkhead category: 119 mm² / 8509 mm⁴ minimum → design achieves ≈238 mm² / ≈17,033 mm⁴
 ## FEA results
